@@ -1,0 +1,148 @@
+/*** sectioning elements ***/
+
+body {
+font-family: 'Aref Ruqaa', serif;
+  text-align: center;
+  font-size: 25px;
+}
+
+header {
+  font-family: 'Lobster Two', cursive;
+  background-color: #759bbf;
+  color: #fff;
+  font-size: 35px;
+  text-align: center;
+}
+
+main {
+  background-color: #e3f2f7;
+  color: #193670;
+}
+
+footer {
+  font-family: 'Lobster Two', cursive;
+  background-color: #193670;
+  color: #fff;
+  text-align: left;
+  font-size: 12px;
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+  font-family: 'Lobster Two', cursive;
+  font-size: 45px;
+}
+
+h2 {
+  font-family: 'Lobster Two', cursive;
+  font-size: 40px;
+  color: #3a3a3a;
+}
+
+h3 {
+  font-family: 'Lobster Two', cursive;
+  text-align: center;
+  font-size: 35px;
+  margin: 2px;
+}
+
+h4 {
+  font-family: 'Lobster Two', cursive;
+  text-align: left;
+  font-size: 30px;
+  color: #d19fe4;
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+  text-align: left;
+  font-size: 25px;
+
+}
+
+form {
+  text-align: left;
+  font-size: 18px;
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+  text-align: left;
+}
+
+li {
+  font-size: 23px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+  padding-top: 35px;
+}
+
+
+/*** link styles ***/
+
+a:link {
+  color: #3a3a3a;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #3a3a3a;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #193670;
+}
+
+a:active {
+ color: #759bbf;
+  text-decoration: none;
+}
